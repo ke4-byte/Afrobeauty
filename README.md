@@ -1,4 +1,4 @@
-# Nairobi Elegance - Luxury Beauty Salon
+# Afrobeuty - Luxury Beauty Salon
 
 Nairobi Elegance is a premium, modern web application for a luxury beauty salon based in Nairobi. It features a stunning UI, seamless navigation, and a focus on user experience.
 
