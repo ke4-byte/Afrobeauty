@@ -14,13 +14,13 @@ const Footer = () => {
           <div className="lg:col-span-1 space-y-6">
             <div>
               <h3 className="text-3xl font-bold mb-2 text-white" style={{ fontFamily: '"Playfair Display", serif' }}>
-                Nairobi Elegance
+                AfroBeauty
               </h3>
               <p className="text-pink-500 text-xs font-bold tracking-[0.2em] uppercase">Luxury Salon & Spa</p>
             </div>
 
             <p className="text-gray-400 leading-relaxed font-light">
-              Where beauty meets artistry. Experience luxury hair and beauty services in the heart of Nairobi.
+              Where beauty meets artistry. Experience luxury hair and beauty services in the heart of Nakuru.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="w-10 h-10 rounded-full bg-white/5 hover:bg-pink-600 flex items-center justify-center transition-all duration-300 hover:scale-110 group">
@@ -44,7 +44,7 @@ const Footer = () => {
                   <MapPin size={14} className="text-gray-400 group-hover:text-white" />
                 </div>
                 <span className="text-gray-400 group-hover:text-white transition-colors pt-1">
-                  Westlands Mall, 3rd Floor<br />Nairobi, Kenya
+                  Nakuru East<br />Nakuru, Kenya
                 </span>
               </li>
               <li className="flex items-center group">
@@ -60,7 +60,7 @@ const Footer = () => {
                   <Mail size={14} className="text-gray-400 group-hover:text-white" />
                 </div>
                 <a href="mailto:info@nairobi-elegance.com" className="text-gray-400 hover:text-white transition-colors">
-                  info@nairobi-elegance.com
+                  info@afrobeauty.com
                 </a>
               </li>
             </ul>
@@ -120,7 +120,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-16 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-500 text-sm flex items-center">
-              © {new Date().getFullYear()} Nairobi Elegance Salon. Made with <Heart size={12} className="text-pink-600 mx-1 fill-current" /> in Nairobi.
+              © {new Date().getFullYear()} AfroBeauty Salon. Made with <Heart size={12} className="text-pink-600 mx-1 fill-current" /> in Nakuru.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="/privacy" className="text-gray-500 hover:text-pink-500 transition-colors">
