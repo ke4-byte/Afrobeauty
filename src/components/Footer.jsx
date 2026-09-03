@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white relative overflow-hidden">
       {/* Background Gradient */}
-      <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-pink-500 via-purple-500 to-rose-500"></div>
+      <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-pink-500 via-mauve-500 to-rose-500"></div>
 
       <div className="max-w-7xl mx-auto px-4 py-20 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
