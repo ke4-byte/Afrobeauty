@@ -44,14 +44,14 @@ const Navbar = () => {
                         <div className="relative w-12 h-12 overflow-hidden rounded-full border-2 border-white/50 shadow-lg group-hover:border-pink-400/50 transition-all duration-500">
                             <img
                                 src={logoUrl}
-                                alt="Nairobi Elegance Logo"
+                                alt="AfroBeauty Logo"
                                 className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700"
                             />
                             <div className="absolute inset-0 bg-gradient-to-tr from-pink-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                         </div>
                         <div className={`flex flex-col transition-colors duration-300 ${isScrolledOrNotHome ? 'text-gray-900' : 'text-white'}`}>
                             <span className="text-xl font-bold tracking-tight" style={{ fontFamily: '"Playfair Display", serif' }}>
-                                Nakuru Beauty
+                                AfroBeauty Beauty
                             </span>
                             <span className={`text-[0.6rem] uppercase tracking-[0.25em] font-medium ${isScrolledOrNotHome ? 'text-pink-600' : 'text-pink-300'}`}>
                                 Luxury Salon
