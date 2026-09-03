@@ -24,7 +24,7 @@ const Navbar = () => {
         { path: '/store', label: 'Shop' },
     ];
 
-    const logoUrl = "D:\wa8k\Nairobi-Elegance-main\Nairobi-Elegance-main\src\assets\Gemini_Generated_Image_86aurs86aurs86au.jpeg";
+    const logoUrl = "Afrobeauty/src/assets/Gemini_Generated_Image_86aurs86aurs86au.jpeg";
 
     // Determine navbar style based on scroll and page
     const isScrolledOrNotHome = scrolled || !isHome;
